@@ -1,4 +1,4 @@
-## Introducción
+Introducción
 
 En este curso introductorio al desarrollo web (frontend) se abarcara
 lo necesario para generar tus habilidades tecnicas para hacer sitios web
